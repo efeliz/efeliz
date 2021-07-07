@@ -1,5 +1,8 @@
 ![Profile Banner](/images/banner.jpg)
 
+<!-- Social Badges -->
+[![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&logoColor=white&color=F9BF3B&label=LinkedIn&message=Connect%20With%20Me)](https://www.linkedin.com/in/estevan-feliz)
+
 I'm an aspiring software developer and current student at Boston College engaged in the study of Communication with minors in Computer Science and Studio Art. I'm very passionate about software development + tech with hopes of using them to help improve the daily lives of others.
 
 🏢 Things I'm currently working on:
