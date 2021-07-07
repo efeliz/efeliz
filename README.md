@@ -5,7 +5,7 @@ I'm an aspiring software developer and current student at Boston College engaged
 🏢 Things I'm currently working on:
 
 - An EdTech + Media project 😏
-- Updating my [personal website](https://www.estevanfeliz.me) CMS 🏗
+- Updating my personal website CMS 🏗
 
 📚 Technologies I'm currently learning:
 
@@ -15,18 +15,3 @@ I'm an aspiring software developer and current student at Boston College engaged
 To view any projects I've worked on, or to learn a bit more about me, be sure to visit my personal website: https://www.estevanfeliz.me
 
 Thanks for stopping by, if you'd like to chat feel free to reach me at 📧 estevanjfeliz@gmail.com.
-
-<!--
-**efeliz/efeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
