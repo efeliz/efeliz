@@ -12,7 +12,7 @@ I'm an aspiring software developer and current student at Boston College engaged
 
 📚 Technologies I'm currently learning:
 
-- C# + [.NET App](https://dot.net) Development 🤖
+- C# + [.NET](https://dot.net) App Development 🤖
 - Expanding my JavaScript + React skills ⚛
 
 To view any projects I've worked on, or to learn a bit more about me, be sure to visit my personal website: https://www.estevanfeliz.me
